@@ -1,2 +1,3 @@
-# IS211_Final
-IS 211 Final Assignment
+# IS211_Final Assignment 
+
+This is a bloogging application for IS_211 Final Project.
